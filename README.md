@@ -1,6 +1,6 @@
 # JSON - JavaScript Object Notation
 
-Visit [piouson.github.io](https://piouson.github.io/responsive-web-design/4-doc-page/) for Live HTML page.
+Visit [piouson.github.io](https://piouson.github.io/documentation-page/) for Live HTML page.
 
 ## What is JSON
 
